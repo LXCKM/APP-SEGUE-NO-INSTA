@@ -37,5 +37,5 @@ Vamos juntos fazer do Segue no Insta o melhor app de seguidores brasileiros! ðŸ‡
 
 O NOME DO APP Ã‰ TEMPORARIO, TALVEZ MUDE NO FUTURO!
 
-IMAGEM MERAMENTE ILUSTRATIVA! 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a74793a0-4729-4cc6-97c0-74e8e22cf6f0" />
+
+
