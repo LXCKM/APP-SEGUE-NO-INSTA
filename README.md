@@ -1,6 +1,6 @@
 # ME-SEGUE-NO-INSTA-APP-
 Olá pessoal, venho aqui apresentar meu futuro aplicativo de seguidores gratuitos, por mais que ja existam diversos deles, este tem o proposito de ajudar os brasileiros.
-<img width="218" height="191" alt="image" src="https://github.com/user-attachments/assets/b388a988-ac5e-4a3d-a9a5-c2fd825e7700" />
+
 
 1- Este app vem com a ideia de ajudar os brasileiros que precisam de seguidores diferentemente de outros apps que são "globais" que por sinal são muito chato, ja que quando você pede seguidores, a maioria deles são de outros paises aleatorios, contas recem criadas sem foto e sem publicações e principalmente contas com nomes aleatorios que acaba nao sendo uma boa, ja que qualquer pessoa percebe que você usou algum aplicativo para ganhar seus seguidores, e ai que entra o "ME SEGUE NO INSTA".
 
